@@ -1,1 +1,1 @@
-This Repo has moved to its own [OpenEEW home on Github](https://github.com/openeew/openeew/).
+This repo has moved to its own [OpenEEW home on Github](https://github.com/openeew/openeew/).
